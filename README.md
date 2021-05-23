@@ -1,0 +1,1 @@
+This is recording for learning process about golang, kubernetes, microservices.
